@@ -1,0 +1,1 @@
+SELECT * FROM statements.usuarios_lenguajes;
